@@ -1,0 +1,6 @@
+openai>=1.30.0
+tavily-python
+wikipedia
+python-dotenv
+requests
+ipykernel
