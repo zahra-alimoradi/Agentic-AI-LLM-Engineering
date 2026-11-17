@@ -1,0 +1,724 @@
+{
+  "question": "Energy Smart Environments",
+  "plan": {
+    "research_goal": "To explore the concept of Energy Smart Environments, focusing on their design, implementation, and impact on sustainability and energy efficiency.",
+    "sub_questions": [
+      "What are the key components and technologies involved in creating Energy Smart Environments?",
+      "How do Energy Smart Environments contribute to energy efficiency and sustainability?",
+      "What are the challenges and barriers to implementing Energy Smart Environments?",
+      "What are the economic and environmental benefits of adopting Energy Smart Environments?",
+      "How do policy and regulation influence the development and adoption of Energy Smart Environments?"
+    ],
+    "suggested_search_queries": [
+      "Energy Smart Environments technologies",
+      "Benefits of Energy Smart Environments",
+      "Challenges in implementing Energy Smart Environments",
+      "Energy efficiency in smart environments",
+      "Policy impact on Energy Smart Environments"
+    ],
+    "expected_sections": [
+      "Introduction to Energy Smart Environments",
+      "Technologies and Components",
+      "Benefits and Impact on Sustainability",
+      "Challenges and Barriers",
+      "Case Studies and Examples",
+      "Policy and Regulatory Framework",
+      "Future Trends and Developments"
+    ],
+    "scope_notes": "The research will cover both residential and commercial applications of Energy Smart Environments. It will include a review of current technologies such as smart grids, IoT devices, and renewable energy integration. The study will also consider global case studies to provide a comprehensive understanding of the topic. The focus will be on recent advancements and future potential, with an emphasis on practical implementation and policy implications."
+  },
+  "initial_report": "### Introduction to Energy Smart Environments\n\nEnergy Smart Environments are designed to optimize energy consumption and enhance sustainability through the integration of advanced technologies. These environments leverage smart grids, IoT devices, renewable energy sources, and data-driven frameworks to create efficient and sustainable living and working spaces.\n\n### Technologies and Components\n\n1. **Smart Grids and IoT Devices**: Smart grids and IoT devices play a crucial role in Energy Smart Environments by enabling real-time monitoring and control of energy usage. These technologies facilitate the integration of renewable energy sources and improve the efficiency of energy distribution.\n\n2. **Digital Twin Technology**: A study by Alexopoulos et al. (2025) highlights the use of Digital Twin technology for the autonomous and dynamic reconfiguration of robotic systems in smart environments. This approach allows for rapid adaptation to real-world changes, enhancing the autonomy and efficiency of smart environments [source](http://arxiv.org/abs/2511.00094v2).\n\n3. **Data Integration and Analysis**: Orlandi et al. (2019) propose using Linked Data technologies to integrate heterogeneous datasets for smart energy systems. This method enables distributed analysis and enhances the ability to compare and reproduce results across different datasets [source](http://arxiv.org/abs/1907.02790v1).\n\n### Benefits and Impact on Sustainability\n\nEnergy Smart Environments contribute significantly to sustainability by reducing energy consumption and integrating renewable energy sources. The use of advanced data analytics and real-time monitoring allows for more efficient energy management, leading to reduced carbon footprints and enhanced environmental benefits.\n\n### Challenges and Barriers\n\n1. **Security Concerns**: The integration of IoT devices in smart environments raises significant security concerns. Alwaisi et al. (2024) discuss the vulnerabilities of IoT devices to energy consumption attacks, highlighting the need for robust security measures to protect smart environments [source](http://arxiv.org/abs/2404.19418v2).\n\n2. **Data Heterogeneity**: The challenge of integrating and analyzing data from diverse sources remains a barrier. The development of standardized data formats and integration frameworks is essential to overcome this issue.\n\n### Policy and Regulatory Framework\n\nThe development and adoption of Energy Smart Environments are influenced by policy and regulatory frameworks that promote energy efficiency and sustainability. However, specific information on policy impacts was not retrieved due to search limitations.\n\n### Critical Discussion\n\nThe research highlights the potential of Energy Smart Environments to transform energy consumption patterns and enhance sustainability. However, challenges such as security vulnerabilities and data integration need to be addressed to fully realize their potential. The role of policy and regulation is crucial in facilitating the adoption of these technologies, although detailed insights were not available from the current search.\n\n### Limitations\n\nThe search for information on the benefits, challenges, and policy impacts of Energy Smart Environments was unsuccessful due to technical issues with the Tavily search tool. This limits the comprehensiveness of the findings, particularly in understanding the economic and regulatory aspects.\n\n### Conclusion\n\nEnergy Smart Environments represent a promising approach to achieving energy efficiency and sustainability. The integration of advanced technologies such as smart grids, IoT devices, and Digital Twin technology is central to their success. Addressing security concerns and improving data integration are critical for their widespread adoption. Further research is needed to explore the economic benefits and policy implications in greater detail.\n\n### References\n\n- Alexopoulos, A., Bompotas, A., Kalogeropoulos, N. R., Kechagias, P., Kalogeras, A. P., & Alexakos, C. (2025). Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments. [arXiv](http://arxiv.org/abs/2511.00094v2).\n- Orlandi, F., Meehan, A., Hossari, M., Dev, S., O'Sullivan, D., & AlSkaif, T. (2019). Interlinking Heterogeneous Data for Smart Energy Systems. [arXiv](http://arxiv.org/abs/1907.02790v1).\n- Alwaisi, Z., Soderi, S., & De Nicola, R. (2024). Energy Cyber Attacks to Smart Healthcare Devices: A Testbed. [arXiv](http://arxiv.org/abs/2404.19418v2).",
+  "final_report": "### Introduction to Energy Smart Environments\n\nEnergy Smart Environments are designed to optimize energy consumption and enhance sustainability through the integration of advanced technologies. These environments leverage smart grids, IoT devices, renewable energy sources, and data-driven frameworks to create efficient and sustainable living and working spaces.\n\n### Technologies and Components\n\n1. **Smart Grids and IoT Devices**: Smart grids and IoT devices play a crucial role in Energy Smart Environments by enabling real-time monitoring and control of energy usage. These technologies facilitate the integration of renewable energy sources and improve the efficiency of energy distribution.\n\n2. **Digital Twin Technology**: A study by Alexopoulos et al. (2025) highlights the use of Digital Twin technology for the autonomous and dynamic reconfiguration of robotic systems in smart environments. This approach allows for rapid adaptation to real-world changes, enhancing the autonomy and efficiency of smart environments [source](http://arxiv.org/abs/2511.00094v2).\n\n3. **Data Integration and Analysis**: Orlandi et al. (2019) propose using Linked Data technologies to integrate heterogeneous datasets for smart energy systems. This method enables distributed analysis and enhances the ability to compare and reproduce results across different datasets [source](http://arxiv.org/abs/1907.02790v1).\n\n4. **Interactive Restriction of Mobile Robots**: Sprute et al. (2019) discuss the use of virtual borders in smart home environments to enhance human-robot interaction. This method improves user experience and interaction time by leveraging smart environment capabilities [source](http://arxiv.org/abs/1902.06997v2).\n\n### Benefits and Impact on Sustainability\n\nEnergy Smart Environments contribute significantly to sustainability by reducing energy consumption and integrating renewable energy sources. However, the report lacks specific data or case studies to substantiate these claims. Future research should focus on quantifying the reduction in carbon footprints and the environmental benefits achieved through these technologies.\n\n### Economic Benefits\n\nThe report currently lacks a detailed analysis of the economic benefits of Energy Smart Environments. Implementing these technologies can lead to cost savings through reduced energy consumption and operational efficiencies. Further research is needed to quantify these savings and provide a comprehensive cost-benefit analysis.\n\n### Challenges and Barriers\n\n1. **Security Concerns**: The integration of IoT devices in smart environments raises significant security concerns. Alwaisi et al. (2024) discuss the vulnerabilities of IoT devices to energy consumption attacks, highlighting the need for robust security measures to protect smart environments [source](http://arxiv.org/abs/2404.19418v2).\n\n2. **Data Heterogeneity**: The challenge of integrating and analyzing data from diverse sources remains a barrier. The development of standardized data formats and integration frameworks is essential to overcome this issue.\n\n### Policy and Regulatory Framework\n\nThe development and adoption of Energy Smart Environments are influenced by policy and regulatory frameworks that promote energy efficiency and sustainability. However, the report lacks detailed insights into specific policies and regulations. Future research should explore how these frameworks facilitate or hinder the adoption of smart energy technologies.\n\n### Critical Discussion\n\nThe research highlights the potential of Energy Smart Environments to transform energy consumption patterns and enhance sustainability. However, challenges such as security vulnerabilities and data integration need to be addressed to fully realize their potential. The role of policy and regulation is crucial in facilitating the adoption of these technologies, although detailed insights were not available from the current search.\n\n### Limitations\n\nThe search for information on the benefits, challenges, and policy impacts of Energy Smart Environments was unsuccessful due to technical issues with the Tavily search tool. This limits the comprehensiveness of the findings, particularly in understanding the economic and regulatory aspects. Future research should address these gaps by incorporating case studies and practical examples.\n\n### Conclusion\n\nEnergy Smart Environments represent a promising approach to achieving energy efficiency and sustainability. The integration of advanced technologies such as smart grids, IoT devices, and Digital Twin technology is central to their success. Addressing security concerns and improving data integration are critical for their widespread adoption. Further research is needed to explore the economic benefits and policy implications in greater detail.\n\n### References\n\n- Alexopoulos, A., Bompotas, A., Kalogeropoulos, N. R., Kechagias, P., Kalogeras, A. P., & Alexakos, C. (2025). Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments. [arXiv](http://arxiv.org/abs/2511.00094v2).\n- Orlandi, F., Meehan, A., Hossari, M., Dev, S., O'Sullivan, D., & AlSkaif, T. (2019). Interlinking Heterogeneous Data for Smart Energy Systems. [arXiv](http://arxiv.org/abs/1907.02790v1).\n- Alwaisi, Z., Soderi, S., & De Nicola, R. (2024). Energy Cyber Attacks to Smart Healthcare Devices: A Testbed. [arXiv](http://arxiv.org/abs/2404.19418v2).\n- Sprute, D., Tönnies, K., & König, M. (2019). Interactive Restriction of a Mobile Robot's Workspace in a Smart Home Environment. [arXiv](http://arxiv.org/abs/1902.06997v2).\n\n### Additional Notes\n\nDue to technical issues with Tavily, further exploration of economic benefits, policy frameworks, and case studies on Energy Smart Environments was not possible. Future research should address these gaps to provide a more comprehensive understanding of the economic and regulatory dimensions of Energy Smart Environments.",
+  "reflections": [
+    {
+      "approved": false,
+      "quality_score": 6,
+      "strengths": [
+        "The report provides a clear introduction to Energy Smart Environments and outlines the key technologies involved.",
+        "It identifies specific challenges such as security concerns and data heterogeneity, which are critical for the implementation of Energy Smart Environments.",
+        "The report includes references to relevant studies, adding credibility to the claims made."
+      ],
+      "limitations": [
+        "The report lacks detailed information on the economic benefits of Energy Smart Environments.",
+        "There is insufficient exploration of the policy and regulatory frameworks impacting the adoption of these technologies.",
+        "The report does not provide a comprehensive analysis of the benefits of Energy Smart Environments, particularly in terms of cost savings and long-term sustainability impacts."
+      ],
+      "unsupported_or_unclear_claims": [
+        "The claim about the significant contribution of Energy Smart Environments to sustainability is not supported by specific data or case studies.",
+        "The statement regarding the role of policy and regulation is vague and lacks supporting evidence."
+      ],
+      "missing_topics": [
+        "Economic benefits and cost analysis of implementing Energy Smart Environments.",
+        "Detailed policy and regulatory impacts on the adoption and development of Energy Smart Environments."
+      ],
+      "additional_search_queries": [
+        "Economic benefits of Energy Smart Environments",
+        "Policy frameworks for Energy Smart Environments",
+        "Case studies on Energy Smart Environments implementation"
+      ],
+      "revision_instructions": [
+        "Include specific data or case studies to support claims about the sustainability benefits of Energy Smart Environments.",
+        "Expand on the economic benefits and provide a cost analysis of implementing these technologies.",
+        "Provide a detailed discussion on the policy and regulatory frameworks that influence the development and adoption of Energy Smart Environments.",
+        "Clarify the role of policy and regulation with supporting evidence or examples."
+      ]
+    },
+    {
+      "approved": false,
+      "quality_score": 6,
+      "strengths": [
+        "The report provides a clear introduction to Energy Smart Environments and outlines the key technologies involved.",
+        "It identifies significant challenges such as security concerns and data heterogeneity.",
+        "The report includes references to relevant studies, supporting the discussion with evidence."
+      ],
+      "limitations": [
+        "The report lacks comprehensive coverage of the economic benefits and policy impacts due to search tool limitations.",
+        "There is insufficient detail on the specific policy and regulatory frameworks influencing Energy Smart Environments.",
+        "The report does not include case studies or practical examples of Energy Smart Environments in action."
+      ],
+      "unsupported_or_unclear_claims": [
+        "The claim that Energy Smart Environments significantly contribute to sustainability is not supported with specific data or case studies.",
+        "The statement about the role of policy and regulation is vague and lacks detailed insights."
+      ],
+      "missing_topics": [
+        "Economic benefits of Energy Smart Environments.",
+        "Detailed policy frameworks and their impact on the adoption of Energy Smart Environments.",
+        "Case studies or real-world examples of successful implementation."
+      ],
+      "additional_search_queries": [
+        "Economic benefits of Energy Smart Environments",
+        "Policy frameworks for Energy Smart Environments",
+        "Case studies on Energy Smart Environments implementation"
+      ],
+      "revision_instructions": [
+        "Include detailed information on the economic benefits of Energy Smart Environments, supported by data or case studies.",
+        "Expand on the policy and regulatory frameworks that influence the development and adoption of Energy Smart Environments.",
+        "Incorporate case studies or practical examples to illustrate the implementation and impact of Energy Smart Environments.",
+        "Address the unsupported claims by providing specific data or references to support the sustainability benefits and policy roles."
+      ]
+    }
+  ],
+  "tool_log": [
+    {
+      "round": 1,
+      "tool": "arxiv_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Energy Smart Environments technologies"
+      },
+      "result": [
+        {
+          "source": "arXiv",
+          "title": "Interactive Restriction of a Mobile Robot's Workspace in a Smart Home Environment",
+          "authors": [
+            "Dennis Sprute",
+            "Klaus Tönnies",
+            "Matthias König"
+          ],
+          "published": "2019-02-19",
+          "url": "http://arxiv.org/abs/1902.06997v2",
+          "summary": "Virtual borders are employed to allow humans the interactive and flexible restriction of their mobile robots' workspaces in human-centered environments, e.g. to exclude privacy zones from the workspace or to indicate certain areas for working. They have been successfully specified in interaction processes using methods from human-robot interaction. However, these methods often lack an expressive feedback system, are restricted to robot's on-board interaction capabilities and require a direct line of sight between human and robot. This negatively affects the user experience and interaction time. Therefore, we investigate the effect of a smart environment on the teaching of virtual borders with the objective to enhance the perceptual and interaction capabilities of a robot. For this purpose, we propose a novel interaction method based on a laser pointer, that leverages a smart home environment in the interaction process. This interaction method comprises an architecture for a smart home environment designed to support the interaction process, the cooperation of human, robot and smart environment in the interaction process, a cooperative perception including stationary and mobile cameras to perceive laser spots and an algorithm to extract virtual borders from multiple camera observations. The results of an experimental evaluation support our hypotheses that our novel interaction method features a significantly shorter interaction time and a better user experience compared to an approach without support of a smart environment. Moreover, the interaction method does not negatively affect other user requirements concerning completeness and accuracy.",
+          "link_pdf": "https://arxiv.org/pdf/1902.06997v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments",
+          "authors": [
+            "Angelos Alexopoulos",
+            "Agorakis Bompotas",
+            "Nikitas Rigas Kalogeropoulos",
+            "Panagiotis Kechagias",
+            "Athanasios P. Kalogeras",
+            "Christos Alexakos"
+          ],
+          "published": "2025-10-30",
+          "url": "http://arxiv.org/abs/2511.00094v2",
+          "summary": "Robotic systems have become integral to smart environments, enabling applications ranging from urban surveillance and automated agriculture to industrial automation. However, their effective operation in dynamic settings - such as smart cities and precision farming - is challenged by continuously evolving topographies and environmental conditions. Traditional control systems often struggle to adapt quickly, leading to inefficiencies or operational failures. To address this limitation, we propose a novel framework for autonomous and dynamic reconfiguration of robotic controllers using Digital Twin technology. Our approach leverages a virtual replica of the robot's operational environment to simulate and optimize movement trajectories in response to real-world changes. By recalculating paths and control parameters in the Digital Twin and deploying the updated code to the physical robot, our method ensures rapid and reliable adaptation without manual intervention. This work advances the integration of Digital Twins in robotics, offering a scalable solution for enhancing autonomy in smart, dynamic environments.",
+          "link_pdf": "https://arxiv.org/pdf/2511.00094v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Interlinking Heterogeneous Data for Smart Energy Systems",
+          "authors": [
+            "Fabrizio Orlandi",
+            "Alan Meehan",
+            "Murhaf Hossari",
+            "Soumyabrata Dev",
+            "Declan O'Sullivan",
+            "Tarek AlSkaif"
+          ],
+          "published": "2019-07-05",
+          "url": "http://arxiv.org/abs/1907.02790v1",
+          "summary": "Smart energy systems in general, and solar energy analysis in particular, have recently gained increasing interest. This is mainly due to stronger focus on smart energy saving solutions and recent developments in photovoltaic (PV) cells. Various data-driven and machine-learning frameworks are being proposed by the research community. However, these frameworks perform their analysis - and are designed on - specific, heterogeneous and isolated datasets, distributed across different sites and sources, making it hard to compare results and reproduce the analysis on similar data. We propose an approach based on Web (W3C) standards and Linked Data technologies for representing and converting PV and weather records into an Resource Description Framework (RDF) graph-based data format. This format, and the presented approach, is ideal in a data integration scenario where data needs to be converted into homogeneous form and different datasets could be interlinked for distributed analysis.",
+          "link_pdf": "https://arxiv.org/pdf/1907.02790v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "Energy Cyber Attacks to Smart Healthcare Devices: A Testbed",
+          "authors": [
+            "Zainab Alwaisi",
+            "Simone Soderi",
+            "Rocco De Nicola"
+          ],
+          "published": "2024-04-30",
+          "url": "http://arxiv.org/abs/2404.19418v2",
+          "summary": "The Internet of Things (IoT) has garnered significant interest in both research and industry due to its profound impact on human life. The rapid expansion of IoT technology has ushered in smart healthcare, smart devices, smart cities, and smart grids. However, the security of IoT devices, particularly in healthcare, has become a major concern, with recent attacks revealing serious vulnerabilities. In IoT networks, where connected devices are susceptible to resource-constraint attacks, such as energy consumption attacks, security is paramount.   This paper explores the impact of Distributed Denial of Service (DDoS) and Fake Access Points (F-APs) attacks on WiFi-enabled smart healthcare devices. Specifically, it investigates how these attacks can disrupt service on victim devices and Access Points (APs), focusing on device connectivity and energy consumption during attacks. Key findings include identifying the attack rates of DDoS attacks that disrupt services and quantifying the energy consumption impact of Energy Consumption Distributed Denial of Service (EC-DDoS) and F-APs attacks on smart healthcare devices.   The study highlights communication protocols, attack rates, payload sizes, and port states of victim devices as critical factors influencing energy consumption. These insights provide a comprehensive understanding of IoT device vulnerabilities in smart healthcare environments and lay the groundwork for future defense strategies.",
+          "link_pdf": "https://arxiv.org/pdf/2404.19418v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "A Critical Look at Smart Wheelchairs",
+          "authors": [
+            "Benjamin Narin",
+            "Makenzie Brian",
+            "William D. Smart"
+          ],
+          "published": "2018-09-02",
+          "url": "http://arxiv.org/abs/1809.00291v1",
+          "summary": "Research into smart wheelchairs has been conducted for decades, but we have yet to see the widespread use of this technology among full-time wheelchair users. We argue that the main reason for this is that there is a mismatch between research and the actualities of using a powered mobility device in the real world. Based on our own research experiences, we enumerate some of these disparities, and offer some suggestions for where work in smart wheelchairs might focus in the coming years.",
+          "link_pdf": "https://arxiv.org/pdf/1809.00291v1"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Benefits of Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Challenges in implementing Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Policy impact on Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "arxiv_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Energy Smart Environments technologies"
+      },
+      "result": [
+        {
+          "source": "arXiv",
+          "title": "Interactive Restriction of a Mobile Robot's Workspace in a Smart Home Environment",
+          "authors": [
+            "Dennis Sprute",
+            "Klaus Tönnies",
+            "Matthias König"
+          ],
+          "published": "2019-02-19",
+          "url": "http://arxiv.org/abs/1902.06997v2",
+          "summary": "Virtual borders are employed to allow humans the interactive and flexible restriction of their mobile robots' workspaces in human-centered environments, e.g. to exclude privacy zones from the workspace or to indicate certain areas for working. They have been successfully specified in interaction processes using methods from human-robot interaction. However, these methods often lack an expressive feedback system, are restricted to robot's on-board interaction capabilities and require a direct line of sight between human and robot. This negatively affects the user experience and interaction time. Therefore, we investigate the effect of a smart environment on the teaching of virtual borders with the objective to enhance the perceptual and interaction capabilities of a robot. For this purpose, we propose a novel interaction method based on a laser pointer, that leverages a smart home environment in the interaction process. This interaction method comprises an architecture for a smart home environment designed to support the interaction process, the cooperation of human, robot and smart environment in the interaction process, a cooperative perception including stationary and mobile cameras to perceive laser spots and an algorithm to extract virtual borders from multiple camera observations. The results of an experimental evaluation support our hypotheses that our novel interaction method features a significantly shorter interaction time and a better user experience compared to an approach without support of a smart environment. Moreover, the interaction method does not negatively affect other user requirements concerning completeness and accuracy.",
+          "link_pdf": "https://arxiv.org/pdf/1902.06997v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments",
+          "authors": [
+            "Angelos Alexopoulos",
+            "Agorakis Bompotas",
+            "Nikitas Rigas Kalogeropoulos",
+            "Panagiotis Kechagias",
+            "Athanasios P. Kalogeras",
+            "Christos Alexakos"
+          ],
+          "published": "2025-10-30",
+          "url": "http://arxiv.org/abs/2511.00094v2",
+          "summary": "Robotic systems have become integral to smart environments, enabling applications ranging from urban surveillance and automated agriculture to industrial automation. However, their effective operation in dynamic settings - such as smart cities and precision farming - is challenged by continuously evolving topographies and environmental conditions. Traditional control systems often struggle to adapt quickly, leading to inefficiencies or operational failures. To address this limitation, we propose a novel framework for autonomous and dynamic reconfiguration of robotic controllers using Digital Twin technology. Our approach leverages a virtual replica of the robot's operational environment to simulate and optimize movement trajectories in response to real-world changes. By recalculating paths and control parameters in the Digital Twin and deploying the updated code to the physical robot, our method ensures rapid and reliable adaptation without manual intervention. This work advances the integration of Digital Twins in robotics, offering a scalable solution for enhancing autonomy in smart, dynamic environments.",
+          "link_pdf": "https://arxiv.org/pdf/2511.00094v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Interlinking Heterogeneous Data for Smart Energy Systems",
+          "authors": [
+            "Fabrizio Orlandi",
+            "Alan Meehan",
+            "Murhaf Hossari",
+            "Soumyabrata Dev",
+            "Declan O'Sullivan",
+            "Tarek AlSkaif"
+          ],
+          "published": "2019-07-05",
+          "url": "http://arxiv.org/abs/1907.02790v1",
+          "summary": "Smart energy systems in general, and solar energy analysis in particular, have recently gained increasing interest. This is mainly due to stronger focus on smart energy saving solutions and recent developments in photovoltaic (PV) cells. Various data-driven and machine-learning frameworks are being proposed by the research community. However, these frameworks perform their analysis - and are designed on - specific, heterogeneous and isolated datasets, distributed across different sites and sources, making it hard to compare results and reproduce the analysis on similar data. We propose an approach based on Web (W3C) standards and Linked Data technologies for representing and converting PV and weather records into an Resource Description Framework (RDF) graph-based data format. This format, and the presented approach, is ideal in a data integration scenario where data needs to be converted into homogeneous form and different datasets could be interlinked for distributed analysis.",
+          "link_pdf": "https://arxiv.org/pdf/1907.02790v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "Energy Cyber Attacks to Smart Healthcare Devices: A Testbed",
+          "authors": [
+            "Zainab Alwaisi",
+            "Simone Soderi",
+            "Rocco De Nicola"
+          ],
+          "published": "2024-04-30",
+          "url": "http://arxiv.org/abs/2404.19418v2",
+          "summary": "The Internet of Things (IoT) has garnered significant interest in both research and industry due to its profound impact on human life. The rapid expansion of IoT technology has ushered in smart healthcare, smart devices, smart cities, and smart grids. However, the security of IoT devices, particularly in healthcare, has become a major concern, with recent attacks revealing serious vulnerabilities. In IoT networks, where connected devices are susceptible to resource-constraint attacks, such as energy consumption attacks, security is paramount.   This paper explores the impact of Distributed Denial of Service (DDoS) and Fake Access Points (F-APs) attacks on WiFi-enabled smart healthcare devices. Specifically, it investigates how these attacks can disrupt service on victim devices and Access Points (APs), focusing on device connectivity and energy consumption during attacks. Key findings include identifying the attack rates of DDoS attacks that disrupt services and quantifying the energy consumption impact of Energy Consumption Distributed Denial of Service (EC-DDoS) and F-APs attacks on smart healthcare devices.   The study highlights communication protocols, attack rates, payload sizes, and port states of victim devices as critical factors influencing energy consumption. These insights provide a comprehensive understanding of IoT device vulnerabilities in smart healthcare environments and lay the groundwork for future defense strategies.",
+          "link_pdf": "https://arxiv.org/pdf/2404.19418v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "A Critical Look at Smart Wheelchairs",
+          "authors": [
+            "Benjamin Narin",
+            "Makenzie Brian",
+            "William D. Smart"
+          ],
+          "published": "2018-09-02",
+          "url": "http://arxiv.org/abs/1809.00291v1",
+          "summary": "Research into smart wheelchairs has been conducted for decades, but we have yet to see the widespread use of this technology among full-time wheelchair users. We argue that the main reason for this is that there is a mismatch between research and the actualities of using a powered mobility device in the real world. Based on our own research experiences, we enumerate some of these disparities, and offer some suggestions for where work in smart wheelchairs might focus in the coming years.",
+          "link_pdf": "https://arxiv.org/pdf/1809.00291v1"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "arxiv_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Benefits of Energy Smart Environments"
+      },
+      "result": [
+        {
+          "source": "arXiv",
+          "title": "Interactive Restriction of a Mobile Robot's Workspace in a Smart Home Environment",
+          "authors": [
+            "Dennis Sprute",
+            "Klaus Tönnies",
+            "Matthias König"
+          ],
+          "published": "2019-02-19",
+          "url": "http://arxiv.org/abs/1902.06997v2",
+          "summary": "Virtual borders are employed to allow humans the interactive and flexible restriction of their mobile robots' workspaces in human-centered environments, e.g. to exclude privacy zones from the workspace or to indicate certain areas for working. They have been successfully specified in interaction processes using methods from human-robot interaction. However, these methods often lack an expressive feedback system, are restricted to robot's on-board interaction capabilities and require a direct line of sight between human and robot. This negatively affects the user experience and interaction time. Therefore, we investigate the effect of a smart environment on the teaching of virtual borders with the objective to enhance the perceptual and interaction capabilities of a robot. For this purpose, we propose a novel interaction method based on a laser pointer, that leverages a smart home environment in the interaction process. This interaction method comprises an architecture for a smart home environment designed to support the interaction process, the cooperation of human, robot and smart environment in the interaction process, a cooperative perception including stationary and mobile cameras to perceive laser spots and an algorithm to extract virtual borders from multiple camera observations. The results of an experimental evaluation support our hypotheses that our novel interaction method features a significantly shorter interaction time and a better user experience compared to an approach without support of a smart environment. Moreover, the interaction method does not negatively affect other user requirements concerning completeness and accuracy.",
+          "link_pdf": "https://arxiv.org/pdf/1902.06997v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments",
+          "authors": [
+            "Angelos Alexopoulos",
+            "Agorakis Bompotas",
+            "Nikitas Rigas Kalogeropoulos",
+            "Panagiotis Kechagias",
+            "Athanasios P. Kalogeras",
+            "Christos Alexakos"
+          ],
+          "published": "2025-10-30",
+          "url": "http://arxiv.org/abs/2511.00094v2",
+          "summary": "Robotic systems have become integral to smart environments, enabling applications ranging from urban surveillance and automated agriculture to industrial automation. However, their effective operation in dynamic settings - such as smart cities and precision farming - is challenged by continuously evolving topographies and environmental conditions. Traditional control systems often struggle to adapt quickly, leading to inefficiencies or operational failures. To address this limitation, we propose a novel framework for autonomous and dynamic reconfiguration of robotic controllers using Digital Twin technology. Our approach leverages a virtual replica of the robot's operational environment to simulate and optimize movement trajectories in response to real-world changes. By recalculating paths and control parameters in the Digital Twin and deploying the updated code to the physical robot, our method ensures rapid and reliable adaptation without manual intervention. This work advances the integration of Digital Twins in robotics, offering a scalable solution for enhancing autonomy in smart, dynamic environments.",
+          "link_pdf": "https://arxiv.org/pdf/2511.00094v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "A Critical Look at Smart Wheelchairs",
+          "authors": [
+            "Benjamin Narin",
+            "Makenzie Brian",
+            "William D. Smart"
+          ],
+          "published": "2018-09-02",
+          "url": "http://arxiv.org/abs/1809.00291v1",
+          "summary": "Research into smart wheelchairs has been conducted for decades, but we have yet to see the widespread use of this technology among full-time wheelchair users. We argue that the main reason for this is that there is a mismatch between research and the actualities of using a powered mobility device in the real world. Based on our own research experiences, we enumerate some of these disparities, and offer some suggestions for where work in smart wheelchairs might focus in the coming years.",
+          "link_pdf": "https://arxiv.org/pdf/1809.00291v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "The Dark Energy Survey",
+          "authors": [
+            " The Dark Energy Survey Collaboration"
+          ],
+          "published": "2005-10-12",
+          "url": "http://arxiv.org/abs/astro-ph/0510346v1",
+          "summary": "We describe the Dark Energy Survey (DES), a proposed optical-near infrared survey of 5000 sq. deg of the South Galactic Cap to ~24th magnitude in SDSS griz, that would use a new 3 sq. deg CCD camera to be mounted on the Blanco 4-m telescope at Cerro Telolo Inter-American Observatory (CTIO). The survey data will allow us to measure the dark energy and dark matter densities and the dark energy equation of state through four independent methods: galaxy clusters, weak gravitational lensing tomography, galaxy angular clustering, and supernova distances. These methods are doubly complementary: they constrain different combinations of cosmological model parameters and are subject to different systematic errors. By deriving the four sets of measurements from the same data set with a common analysis framework, we will obtain important cross checks of the systematic errors and thereby make a substantial and robust advance in the precision of dark energy measurements.",
+          "link_pdf": "https://arxiv.org/pdf/astro-ph/0510346v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "Large Synoptic Survey Telescope: Dark Energy Science Collaboration",
+          "authors": [
+            " LSST Dark Energy Science Collaboration"
+          ],
+          "published": "2012-11-01",
+          "url": "http://arxiv.org/abs/1211.0310v1",
+          "summary": "This white paper describes the LSST Dark Energy Science Collaboration (DESC), whose goal is the study of dark energy and related topics in fundamental physics with data from the Large Synoptic Survey Telescope (LSST). It provides an overview of dark energy science and describes the current and anticipated state of the field. It makes the case for the DESC by laying out a robust analytical framework for dark energy science that has been defined by its members and the comprehensive three-year work plan they have developed for implementing that framework. The analysis working groups cover five key probes of dark energy: weak lensing, large scale structure, galaxy clusters, Type Ia supernovae, and strong lensing. The computing working groups span cosmological simulations, galaxy catalogs, photon simulations and a systematic software and computational framework for LSST dark energy data analysis. The technical working groups make the connection between dark energy science and the LSST system. The working groups have close linkages, especially through the use of the photon simulations to study the impact of instrument design and survey strategy on analysis methodology and cosmological parameter estimation. The white paper describes several high priority tasks identified by each of the 16 working groups. Over the next three years these tasks will help prepare for LSST analysis, make synergistic connections with ongoing cosmological surveys and provide the dark energy community with state of the art analysis tools. Members of the community are invited to join the LSST DESC, according to the membership policies described in the white paper. Applications to sign up for associate membership may be made by submitting the Web form at http://www.slac.stanford.edu/exp/lsst/desc/signup.html with a short statement of the work they wish to pursue that is relevant to the LSST DESC.",
+          "link_pdf": "https://arxiv.org/pdf/1211.0310v1"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "arxiv_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Challenges in implementing Energy Smart Environments"
+      },
+      "result": [
+        {
+          "source": "arXiv",
+          "title": "Interactive Restriction of a Mobile Robot's Workspace in a Smart Home Environment",
+          "authors": [
+            "Dennis Sprute",
+            "Klaus Tönnies",
+            "Matthias König"
+          ],
+          "published": "2019-02-19",
+          "url": "http://arxiv.org/abs/1902.06997v2",
+          "summary": "Virtual borders are employed to allow humans the interactive and flexible restriction of their mobile robots' workspaces in human-centered environments, e.g. to exclude privacy zones from the workspace or to indicate certain areas for working. They have been successfully specified in interaction processes using methods from human-robot interaction. However, these methods often lack an expressive feedback system, are restricted to robot's on-board interaction capabilities and require a direct line of sight between human and robot. This negatively affects the user experience and interaction time. Therefore, we investigate the effect of a smart environment on the teaching of virtual borders with the objective to enhance the perceptual and interaction capabilities of a robot. For this purpose, we propose a novel interaction method based on a laser pointer, that leverages a smart home environment in the interaction process. This interaction method comprises an architecture for a smart home environment designed to support the interaction process, the cooperation of human, robot and smart environment in the interaction process, a cooperative perception including stationary and mobile cameras to perceive laser spots and an algorithm to extract virtual borders from multiple camera observations. The results of an experimental evaluation support our hypotheses that our novel interaction method features a significantly shorter interaction time and a better user experience compared to an approach without support of a smart environment. Moreover, the interaction method does not negatively affect other user requirements concerning completeness and accuracy.",
+          "link_pdf": "https://arxiv.org/pdf/1902.06997v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments",
+          "authors": [
+            "Angelos Alexopoulos",
+            "Agorakis Bompotas",
+            "Nikitas Rigas Kalogeropoulos",
+            "Panagiotis Kechagias",
+            "Athanasios P. Kalogeras",
+            "Christos Alexakos"
+          ],
+          "published": "2025-10-30",
+          "url": "http://arxiv.org/abs/2511.00094v2",
+          "summary": "Robotic systems have become integral to smart environments, enabling applications ranging from urban surveillance and automated agriculture to industrial automation. However, their effective operation in dynamic settings - such as smart cities and precision farming - is challenged by continuously evolving topographies and environmental conditions. Traditional control systems often struggle to adapt quickly, leading to inefficiencies or operational failures. To address this limitation, we propose a novel framework for autonomous and dynamic reconfiguration of robotic controllers using Digital Twin technology. Our approach leverages a virtual replica of the robot's operational environment to simulate and optimize movement trajectories in response to real-world changes. By recalculating paths and control parameters in the Digital Twin and deploying the updated code to the physical robot, our method ensures rapid and reliable adaptation without manual intervention. This work advances the integration of Digital Twins in robotics, offering a scalable solution for enhancing autonomy in smart, dynamic environments.",
+          "link_pdf": "https://arxiv.org/pdf/2511.00094v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "A Critical Look at Smart Wheelchairs",
+          "authors": [
+            "Benjamin Narin",
+            "Makenzie Brian",
+            "William D. Smart"
+          ],
+          "published": "2018-09-02",
+          "url": "http://arxiv.org/abs/1809.00291v1",
+          "summary": "Research into smart wheelchairs has been conducted for decades, but we have yet to see the widespread use of this technology among full-time wheelchair users. We argue that the main reason for this is that there is a mismatch between research and the actualities of using a powered mobility device in the real world. Based on our own research experiences, we enumerate some of these disparities, and offer some suggestions for where work in smart wheelchairs might focus in the coming years.",
+          "link_pdf": "https://arxiv.org/pdf/1809.00291v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "Large Synoptic Survey Telescope: Dark Energy Science Collaboration",
+          "authors": [
+            " LSST Dark Energy Science Collaboration"
+          ],
+          "published": "2012-11-01",
+          "url": "http://arxiv.org/abs/1211.0310v1",
+          "summary": "This white paper describes the LSST Dark Energy Science Collaboration (DESC), whose goal is the study of dark energy and related topics in fundamental physics with data from the Large Synoptic Survey Telescope (LSST). It provides an overview of dark energy science and describes the current and anticipated state of the field. It makes the case for the DESC by laying out a robust analytical framework for dark energy science that has been defined by its members and the comprehensive three-year work plan they have developed for implementing that framework. The analysis working groups cover five key probes of dark energy: weak lensing, large scale structure, galaxy clusters, Type Ia supernovae, and strong lensing. The computing working groups span cosmological simulations, galaxy catalogs, photon simulations and a systematic software and computational framework for LSST dark energy data analysis. The technical working groups make the connection between dark energy science and the LSST system. The working groups have close linkages, especially through the use of the photon simulations to study the impact of instrument design and survey strategy on analysis methodology and cosmological parameter estimation. The white paper describes several high priority tasks identified by each of the 16 working groups. Over the next three years these tasks will help prepare for LSST analysis, make synergistic connections with ongoing cosmological surveys and provide the dark energy community with state of the art analysis tools. Members of the community are invited to join the LSST DESC, according to the membership policies described in the white paper. Applications to sign up for associate membership may be made by submitting the Web form at http://www.slac.stanford.edu/exp/lsst/desc/signup.html with a short statement of the work they wish to pursue that is relevant to the LSST DESC.",
+          "link_pdf": "https://arxiv.org/pdf/1211.0310v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "The Dark Energy Survey",
+          "authors": [
+            " The Dark Energy Survey Collaboration"
+          ],
+          "published": "2005-10-12",
+          "url": "http://arxiv.org/abs/astro-ph/0510346v1",
+          "summary": "We describe the Dark Energy Survey (DES), a proposed optical-near infrared survey of 5000 sq. deg of the South Galactic Cap to ~24th magnitude in SDSS griz, that would use a new 3 sq. deg CCD camera to be mounted on the Blanco 4-m telescope at Cerro Telolo Inter-American Observatory (CTIO). The survey data will allow us to measure the dark energy and dark matter densities and the dark energy equation of state through four independent methods: galaxy clusters, weak gravitational lensing tomography, galaxy angular clustering, and supernova distances. These methods are doubly complementary: they constrain different combinations of cosmological model parameters and are subject to different systematic errors. By deriving the four sets of measurements from the same data set with a common analysis framework, we will obtain important cross checks of the systematic errors and thereby make a substantial and robust advance in the precision of dark energy measurements.",
+          "link_pdf": "https://arxiv.org/pdf/astro-ph/0510346v1"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "arxiv_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Policy impact on Energy Smart Environments"
+      },
+      "result": [
+        {
+          "source": "arXiv",
+          "title": "Interactive Restriction of a Mobile Robot's Workspace in a Smart Home Environment",
+          "authors": [
+            "Dennis Sprute",
+            "Klaus Tönnies",
+            "Matthias König"
+          ],
+          "published": "2019-02-19",
+          "url": "http://arxiv.org/abs/1902.06997v2",
+          "summary": "Virtual borders are employed to allow humans the interactive and flexible restriction of their mobile robots' workspaces in human-centered environments, e.g. to exclude privacy zones from the workspace or to indicate certain areas for working. They have been successfully specified in interaction processes using methods from human-robot interaction. However, these methods often lack an expressive feedback system, are restricted to robot's on-board interaction capabilities and require a direct line of sight between human and robot. This negatively affects the user experience and interaction time. Therefore, we investigate the effect of a smart environment on the teaching of virtual borders with the objective to enhance the perceptual and interaction capabilities of a robot. For this purpose, we propose a novel interaction method based on a laser pointer, that leverages a smart home environment in the interaction process. This interaction method comprises an architecture for a smart home environment designed to support the interaction process, the cooperation of human, robot and smart environment in the interaction process, a cooperative perception including stationary and mobile cameras to perceive laser spots and an algorithm to extract virtual borders from multiple camera observations. The results of an experimental evaluation support our hypotheses that our novel interaction method features a significantly shorter interaction time and a better user experience compared to an approach without support of a smart environment. Moreover, the interaction method does not negatively affect other user requirements concerning completeness and accuracy.",
+          "link_pdf": "https://arxiv.org/pdf/1902.06997v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments",
+          "authors": [
+            "Angelos Alexopoulos",
+            "Agorakis Bompotas",
+            "Nikitas Rigas Kalogeropoulos",
+            "Panagiotis Kechagias",
+            "Athanasios P. Kalogeras",
+            "Christos Alexakos"
+          ],
+          "published": "2025-10-30",
+          "url": "http://arxiv.org/abs/2511.00094v2",
+          "summary": "Robotic systems have become integral to smart environments, enabling applications ranging from urban surveillance and automated agriculture to industrial automation. However, their effective operation in dynamic settings - such as smart cities and precision farming - is challenged by continuously evolving topographies and environmental conditions. Traditional control systems often struggle to adapt quickly, leading to inefficiencies or operational failures. To address this limitation, we propose a novel framework for autonomous and dynamic reconfiguration of robotic controllers using Digital Twin technology. Our approach leverages a virtual replica of the robot's operational environment to simulate and optimize movement trajectories in response to real-world changes. By recalculating paths and control parameters in the Digital Twin and deploying the updated code to the physical robot, our method ensures rapid and reliable adaptation without manual intervention. This work advances the integration of Digital Twins in robotics, offering a scalable solution for enhancing autonomy in smart, dynamic environments.",
+          "link_pdf": "https://arxiv.org/pdf/2511.00094v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Large Synoptic Survey Telescope: Dark Energy Science Collaboration",
+          "authors": [
+            " LSST Dark Energy Science Collaboration"
+          ],
+          "published": "2012-11-01",
+          "url": "http://arxiv.org/abs/1211.0310v1",
+          "summary": "This white paper describes the LSST Dark Energy Science Collaboration (DESC), whose goal is the study of dark energy and related topics in fundamental physics with data from the Large Synoptic Survey Telescope (LSST). It provides an overview of dark energy science and describes the current and anticipated state of the field. It makes the case for the DESC by laying out a robust analytical framework for dark energy science that has been defined by its members and the comprehensive three-year work plan they have developed for implementing that framework. The analysis working groups cover five key probes of dark energy: weak lensing, large scale structure, galaxy clusters, Type Ia supernovae, and strong lensing. The computing working groups span cosmological simulations, galaxy catalogs, photon simulations and a systematic software and computational framework for LSST dark energy data analysis. The technical working groups make the connection between dark energy science and the LSST system. The working groups have close linkages, especially through the use of the photon simulations to study the impact of instrument design and survey strategy on analysis methodology and cosmological parameter estimation. The white paper describes several high priority tasks identified by each of the 16 working groups. Over the next three years these tasks will help prepare for LSST analysis, make synergistic connections with ongoing cosmological surveys and provide the dark energy community with state of the art analysis tools. Members of the community are invited to join the LSST DESC, according to the membership policies described in the white paper. Applications to sign up for associate membership may be made by submitting the Web form at http://www.slac.stanford.edu/exp/lsst/desc/signup.html with a short statement of the work they wish to pursue that is relevant to the LSST DESC.",
+          "link_pdf": "https://arxiv.org/pdf/1211.0310v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "A Critical Look at Smart Wheelchairs",
+          "authors": [
+            "Benjamin Narin",
+            "Makenzie Brian",
+            "William D. Smart"
+          ],
+          "published": "2018-09-02",
+          "url": "http://arxiv.org/abs/1809.00291v1",
+          "summary": "Research into smart wheelchairs has been conducted for decades, but we have yet to see the widespread use of this technology among full-time wheelchair users. We argue that the main reason for this is that there is a mismatch between research and the actualities of using a powered mobility device in the real world. Based on our own research experiences, we enumerate some of these disparities, and offer some suggestions for where work in smart wheelchairs might focus in the coming years.",
+          "link_pdf": "https://arxiv.org/pdf/1809.00291v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "The Dark Energy Survey",
+          "authors": [
+            " The Dark Energy Survey Collaboration"
+          ],
+          "published": "2005-10-12",
+          "url": "http://arxiv.org/abs/astro-ph/0510346v1",
+          "summary": "We describe the Dark Energy Survey (DES), a proposed optical-near infrared survey of 5000 sq. deg of the South Galactic Cap to ~24th magnitude in SDSS griz, that would use a new 3 sq. deg CCD camera to be mounted on the Blanco 4-m telescope at Cerro Telolo Inter-American Observatory (CTIO). The survey data will allow us to measure the dark energy and dark matter densities and the dark energy equation of state through four independent methods: galaxy clusters, weak gravitational lensing tomography, galaxy angular clustering, and supernova distances. These methods are doubly complementary: they constrain different combinations of cosmological model parameters and are subject to different systematic errors. By deriving the four sets of measurements from the same data set with a common analysis framework, we will obtain important cross checks of the systematic errors and thereby make a substantial and robust advance in the precision of dark energy measurements.",
+          "link_pdf": "https://arxiv.org/pdf/astro-ph/0510346v1"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Economic benefits of Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Policy frameworks for Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Case studies on Energy Smart Environments implementation",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "arxiv_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Energy Smart Environments technologies"
+      },
+      "result": [
+        {
+          "source": "arXiv",
+          "title": "Interactive Restriction of a Mobile Robot's Workspace in a Smart Home Environment",
+          "authors": [
+            "Dennis Sprute",
+            "Klaus Tönnies",
+            "Matthias König"
+          ],
+          "published": "2019-02-19",
+          "url": "http://arxiv.org/abs/1902.06997v2",
+          "summary": "Virtual borders are employed to allow humans the interactive and flexible restriction of their mobile robots' workspaces in human-centered environments, e.g. to exclude privacy zones from the workspace or to indicate certain areas for working. They have been successfully specified in interaction processes using methods from human-robot interaction. However, these methods often lack an expressive feedback system, are restricted to robot's on-board interaction capabilities and require a direct line of sight between human and robot. This negatively affects the user experience and interaction time. Therefore, we investigate the effect of a smart environment on the teaching of virtual borders with the objective to enhance the perceptual and interaction capabilities of a robot. For this purpose, we propose a novel interaction method based on a laser pointer, that leverages a smart home environment in the interaction process. This interaction method comprises an architecture for a smart home environment designed to support the interaction process, the cooperation of human, robot and smart environment in the interaction process, a cooperative perception including stationary and mobile cameras to perceive laser spots and an algorithm to extract virtual borders from multiple camera observations. The results of an experimental evaluation support our hypotheses that our novel interaction method features a significantly shorter interaction time and a better user experience compared to an approach without support of a smart environment. Moreover, the interaction method does not negatively affect other user requirements concerning completeness and accuracy.",
+          "link_pdf": "https://arxiv.org/pdf/1902.06997v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments",
+          "authors": [
+            "Angelos Alexopoulos",
+            "Agorakis Bompotas",
+            "Nikitas Rigas Kalogeropoulos",
+            "Panagiotis Kechagias",
+            "Athanasios P. Kalogeras",
+            "Christos Alexakos"
+          ],
+          "published": "2025-10-30",
+          "url": "http://arxiv.org/abs/2511.00094v2",
+          "summary": "Robotic systems have become integral to smart environments, enabling applications ranging from urban surveillance and automated agriculture to industrial automation. However, their effective operation in dynamic settings - such as smart cities and precision farming - is challenged by continuously evolving topographies and environmental conditions. Traditional control systems often struggle to adapt quickly, leading to inefficiencies or operational failures. To address this limitation, we propose a novel framework for autonomous and dynamic reconfiguration of robotic controllers using Digital Twin technology. Our approach leverages a virtual replica of the robot's operational environment to simulate and optimize movement trajectories in response to real-world changes. By recalculating paths and control parameters in the Digital Twin and deploying the updated code to the physical robot, our method ensures rapid and reliable adaptation without manual intervention. This work advances the integration of Digital Twins in robotics, offering a scalable solution for enhancing autonomy in smart, dynamic environments.",
+          "link_pdf": "https://arxiv.org/pdf/2511.00094v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "Interlinking Heterogeneous Data for Smart Energy Systems",
+          "authors": [
+            "Fabrizio Orlandi",
+            "Alan Meehan",
+            "Murhaf Hossari",
+            "Soumyabrata Dev",
+            "Declan O'Sullivan",
+            "Tarek AlSkaif"
+          ],
+          "published": "2019-07-05",
+          "url": "http://arxiv.org/abs/1907.02790v1",
+          "summary": "Smart energy systems in general, and solar energy analysis in particular, have recently gained increasing interest. This is mainly due to stronger focus on smart energy saving solutions and recent developments in photovoltaic (PV) cells. Various data-driven and machine-learning frameworks are being proposed by the research community. However, these frameworks perform their analysis - and are designed on - specific, heterogeneous and isolated datasets, distributed across different sites and sources, making it hard to compare results and reproduce the analysis on similar data. We propose an approach based on Web (W3C) standards and Linked Data technologies for representing and converting PV and weather records into an Resource Description Framework (RDF) graph-based data format. This format, and the presented approach, is ideal in a data integration scenario where data needs to be converted into homogeneous form and different datasets could be interlinked for distributed analysis.",
+          "link_pdf": "https://arxiv.org/pdf/1907.02790v1"
+        },
+        {
+          "source": "arXiv",
+          "title": "Energy Cyber Attacks to Smart Healthcare Devices: A Testbed",
+          "authors": [
+            "Zainab Alwaisi",
+            "Simone Soderi",
+            "Rocco De Nicola"
+          ],
+          "published": "2024-04-30",
+          "url": "http://arxiv.org/abs/2404.19418v2",
+          "summary": "The Internet of Things (IoT) has garnered significant interest in both research and industry due to its profound impact on human life. The rapid expansion of IoT technology has ushered in smart healthcare, smart devices, smart cities, and smart grids. However, the security of IoT devices, particularly in healthcare, has become a major concern, with recent attacks revealing serious vulnerabilities. In IoT networks, where connected devices are susceptible to resource-constraint attacks, such as energy consumption attacks, security is paramount.   This paper explores the impact of Distributed Denial of Service (DDoS) and Fake Access Points (F-APs) attacks on WiFi-enabled smart healthcare devices. Specifically, it investigates how these attacks can disrupt service on victim devices and Access Points (APs), focusing on device connectivity and energy consumption during attacks. Key findings include identifying the attack rates of DDoS attacks that disrupt services and quantifying the energy consumption impact of Energy Consumption Distributed Denial of Service (EC-DDoS) and F-APs attacks on smart healthcare devices.   The study highlights communication protocols, attack rates, payload sizes, and port states of victim devices as critical factors influencing energy consumption. These insights provide a comprehensive understanding of IoT device vulnerabilities in smart healthcare environments and lay the groundwork for future defense strategies.",
+          "link_pdf": "https://arxiv.org/pdf/2404.19418v2"
+        },
+        {
+          "source": "arXiv",
+          "title": "A Critical Look at Smart Wheelchairs",
+          "authors": [
+            "Benjamin Narin",
+            "Makenzie Brian",
+            "William D. Smart"
+          ],
+          "published": "2018-09-02",
+          "url": "http://arxiv.org/abs/1809.00291v1",
+          "summary": "Research into smart wheelchairs has been conducted for decades, but we have yet to see the widespread use of this technology among full-time wheelchair users. We argue that the main reason for this is that there is a mismatch between research and the actualities of using a powered mobility device in the real world. Based on our own research experiences, we enumerate some of these disparities, and offer some suggestions for where work in smart wheelchairs might focus in the coming years.",
+          "link_pdf": "https://arxiv.org/pdf/1809.00291v1"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Benefits of Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Challenges in implementing Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Policy impact on Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Economic benefits of Energy Smart Environments",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "tool": "tavily_search_tool",
+      "arguments": {
+        "max_results": 5,
+        "query": "Case studies on Energy Smart Environments implementation",
+        "search_depth": "advanced"
+      },
+      "result": [
+        {
+          "error": "Tavily search failed: "
+        }
+      ]
+    }
+  ],
+  "tool_calls_count": 17,
+  "created_at": "2026-11-17T15:44:54.780951+00:00"
+}

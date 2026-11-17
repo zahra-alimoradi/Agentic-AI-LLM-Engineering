@@ -128,8 +128,11 @@ def tavily_search_tool(
                 results.append({"source": "Tavily image", "image_url": image_url})
         return results
 
-    except Exception as exc:
-        return [{"error": f"Tavily search failed: {exc}"}]
+    except Exception as e:
+        print("Tavily Error Type:", type(e).__name__)
+        print("Tavily Error Details:", repr(e))
+        return {
+        "error": f"Tavily search failed: {repr(e)}"}
 
 
 tavily_tool_def = {
